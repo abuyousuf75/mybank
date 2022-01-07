@@ -1,0 +1,45 @@
+body{
+    padding: 100px;
+}
+
+.title{
+    text-align: center;
+}
+.submite-area{
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 100px;
+    padding: 50px;
+}
+#trangaction{
+    display: none;
+    margin-top: 60px;
+}
+#trangaction h3{
+    color:green;
+}
+.status{
+    margin: 0px 20px;
+    padding: 40px 40px;
+    color: #fff;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.deposite{
+    background:steelblue;
+   
+}
+.withraw{
+    background: lightsalmon;
+}
+.blance{
+    background: orange;
+}
+.d-btn{
+    margin-top: 20px;
+}
+.w-btn{
+    margin-top: 20px;
+}
